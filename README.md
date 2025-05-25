@@ -1,7 +1,9 @@
-install mysql
+install mysql2
 
-npm i mysql
+npm i mysql2
 
 install nodemon
 
 npm install --save-dev nodemon
+
+auth access menggunakan Bearer Token
